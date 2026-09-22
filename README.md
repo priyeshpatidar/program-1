@@ -1,2 +1,2 @@
-# program-1
+# priyesh projects
 this is my first program 
